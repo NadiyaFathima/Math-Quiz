@@ -1,0 +1,41 @@
+body
+{
+	background-image: url("Photoo.jpg");
+    background-position:center;
+    background-size:cover;
+}
+h1{
+    color: white;
+    font-family:monospace;
+    font-weight: bold;
+}
+h3{
+    color: white;
+    font-family:  Tahoma;
+}
+label{
+    color: white;
+}
+#buttonn{
+    background-color: rgb(255, 214, 191);
+    color: black;
+    font-family:monospace;
+    border:none;
+}
+
+.div1 , .div2
+{
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 10px;
+	width: 300px;
+
+}
+
